@@ -7,5 +7,6 @@ public class test1 {
 public static void main(String[] args) {
 	//main方法
 	//version3
+	//version4
 	}
 }
